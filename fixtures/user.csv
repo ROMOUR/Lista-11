@@ -1,0 +1,4 @@
+entity,operation,id,payload
+user,create,3899963941,{"id": 3899963941, "username": "Rodolfo", "firstName": "test", "lastName": "Moura", "email": "rodolfo_itg@yahoocom.br", "password": "12345", "phone": "996394136", "userStatus": 1}
+user,update,3899963941,{"id": 3899963941, "username": "Rodolfo", "firstName": "updated_test", "lastName": "updated_Moura", "email": "updated_rodolfo_itg@yahoocom.br", "password": "54321", "phone": "996394137", "userStatus": 2}
+order,create,1,{"id": 1, "petId": 1, "quantity": 1, "shipDate": "2024-06-17T12:34:56.789Z", "status": "placed", "complete": true}
